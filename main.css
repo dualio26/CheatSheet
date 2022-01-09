@@ -1,0 +1,68 @@
+html {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.header {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  text-align: center;
+}
+.icons {
+  margin-left: auto;
+  margin-right: auto;
+}
+.icons i {
+  font-size: x-large;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.container details {
+  margin-top: 2.5%;
+}
+.container details summary {
+  margin-left: 5%;
+}
+.container details embed {
+    margin-top: 2.5%;
+}
+.container details div {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container details div embed {
+  height: 500px;
+  width: 100vw;
+}
+
+.RStudio{
+  max-width: 100% !important;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto;
+}
+
+.footer{
+  text-align: right;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.RStudio img{
+  width: 100%;
+}
+
+summary {
+  display: block;
+}
+
+summary::after {
+  margin-left: 1ch;
+  display: inline-block;
+  transition: 0.2s;
+  content: "\203A"; /* chevron */
+}
+
+details[open] summary::after {
+  transform: rotate(90deg);
+}

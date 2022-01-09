@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="619.59406"
+   height="619.59406"
+   viewBox="0 0 619.59406 619.59406"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   id="svg15"
+   sodipodi:docname="RStudio-Logo-gray.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs19" /><sodipodi:namedview
+   id="namedview17"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   showgrid="false"
+   inkscape:zoom="0.59271709"
+   inkscape:cx="265.72543"
+   inkscape:cy="309.59121"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg15" />
+    <g
+   transform="translate(-8.8803475,-3.1337903)"
+   id="g13">
+        <g
+   id="R_Ball">
+            <g
+   id="g10">
+                <g
+   transform="matrix(0.7071,-0.7071,0.7071,0.7071,-127.927,317.032)"
+   id="g4">
+                    <circle
+   cx="318.70001"
+   cy="312.89999"
+   r="309.79999"
+   style="fill:#4d4d4d"
+   id="circle2" />
+                </g>
+                <g
+   id="g8">
+                    <path
+   d="m 424.7,411.8 h 33.6 v 26.1 H 407 L 322,310.5 H 276.7 V 411.8 H 321 v 26.1 H 209.5 v -26.1 h 38.3 V 187.3 l -38.3,-4.7 v -24.7 c 14.5,3.3 27.1,5.6 42.9,5.6 23.8,0 48.1,-5.6 71.9,-5.6 46.2,0 89.1,21 89.1,72.3 0,39.7 -23.8,64.9 -60.7,75.6 z m -148,-126.5 24.3,0.5 c 59.3,0.9 82.1,-21.9 82.1,-52.3 0,-35.5 -25.7,-49.5 -58.3,-49.5 -15.4,0 -31.3,1.4 -48.1,3.3 z"
+   style="fill:#ffffff;fill-rule:nonzero"
+   id="path6" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
